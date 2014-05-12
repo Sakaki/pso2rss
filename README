@@ -1,0 +1,7 @@
+PSO2の緊急RSSとbot
+
+・psorss.py: データ取得
+・server.py: サーバー
+・embot.py: Twitterのbot
+
+bottleに依存しています。
